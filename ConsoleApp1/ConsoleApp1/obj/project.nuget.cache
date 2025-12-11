@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2JECls/z1xKxf6LE5iMEenIqlgYAjPwkRCNggnNSWVJwuxX6G6lQfuFj3iQucWCf7irLMlMx1zkAqE5SkkXOnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\VBTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.data.odbc\\4.7.0\\system.data.odbc.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
